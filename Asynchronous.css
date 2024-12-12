@@ -1,1 +1,85 @@
-
+ #parent{
+    display:flex;
+}
+#hour{
+    border-radius: 30px;
+    border: 1px solid none;
+    background-color: aqua;
+    text-align: center;
+    padding: 70px;
+    margin-top: 200px ;
+    width: 50px;
+    margin-left: 50px;
+    height: 60px;
+}
+#min{
+    border-radius: 30px;
+    border: 1px solid none;
+    background-color: aqua;
+    text-align: center;
+    padding: 70px;
+    margin-top: 200px ;
+    width: 50px;
+    margin-left: 100px;
+    height: 60px;
+}
+#sec{
+    border-radius: 30px;
+    border: 1px solid none;
+    background-color: aqua;
+    text-align: center;
+    padding: 70px;
+    margin-top: 200px ;
+    width: 50px;
+    margin-left: 100px;
+    height: 60px;
+}
+#date{
+    border-radius: 30px;
+    border: 1px solid none;
+    background-color: aqua;
+    text-align: center;
+    padding: 70px;
+    margin-top: 200px ;
+    width: 50px;
+    margin-left: 50px;
+    height: 60px;
+}#mon{
+    border-radius: 30px;
+    border: 1px solid none;
+    background-color: aqua;
+    text-align: center;
+    padding: 70px;
+    margin-top: 200px ;
+    width: 50px;
+    margin-left: 50px;
+    height: 60px;
+}
+#yr{
+    border-radius: 30px;
+    border: 1px solid none;
+    background-color: aqua;
+    text-align: center;
+    padding: 70px;
+    margin-top: 200px ;
+    width: 50px;
+    margin-left: 50px;
+    height: 60px;
+}
+#ampm{
+    border-radius: 30px;
+    border: 1px solid none;
+    background-color: aqua;
+    text-align: center;
+    padding: 50px;
+    margin-top: 260px ;
+    width: 50px;
+    margin-left: 60px;
+    height: 30px;
+}
+#format10{
+ width: 100px;
+ height: 30px;
+ margin: 90px 10px 100px -100px;   
+ top: 30px;
+} 
