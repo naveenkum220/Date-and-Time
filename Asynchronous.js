@@ -47,9 +47,3 @@ setInterval (function(){
         year.textContent=date1.getFullyear();
     }
 },1000);
-// InnerText-consider only text as a text content exclude tag.
-//InnerHTML-consider space also consider tag also
-// let para=document.getElementById("para");
-// let text=document.getElementById("text");
-// text.innerText=para.innerText
-// text.innerHTML=para.innerHTML
